@@ -1,0 +1,1 @@
+# Analyz-NYSE-Data
